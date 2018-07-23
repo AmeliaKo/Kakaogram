@@ -1,0 +1,6 @@
+framework module Pods_kakaogram {
+  umbrella header "Pods-kakaogram-umbrella.h"
+
+  export *
+  module * { export * }
+}
